@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/css/main.fbe6c830.chunk.css",
-    "main.js": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/js/main.441f1dd7.chunk.js",
-    "main.js.map": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/js/main.441f1dd7.chunk.js.map",
-    "runtime-main.js": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/js/runtime-main.bcbc5f63.js",
-    "runtime-main.js.map": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/js/runtime-main.bcbc5f63.js.map",
-    "static/js/2.f421a119.chunk.js": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/js/2.f421a119.chunk.js",
-    "static/js/2.f421a119.chunk.js.map": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/js/2.f421a119.chunk.js.map",
-    "index.html": "/perlov3301/perlov3301.github.io/skilled-ui-interview/index.html",
-    "precache-manifest.0c23fdc3c314e8c6672b1505770eb6a0.js": "/perlov3301/perlov3301.github.io/skilled-ui-interview/precache-manifest.0c23fdc3c314e8c6672b1505770eb6a0.js",
-    "service-worker.js": "/perlov3301/perlov3301.github.io/skilled-ui-interview/service-worker.js",
-    "static/css/main.fbe6c830.chunk.css.map": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/css/main.fbe6c830.chunk.css.map",
-    "static/js/2.f421a119.chunk.js.LICENSE.txt": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/js/2.f421a119.chunk.js.LICENSE.txt",
-    "static/media/home1.css": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/media/Gauguin_Gogh.6a9cf1e7.jpg",
-    "static/media/page1.css": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/media/my200801.dc0eada6.jpeg",
-    "static/media/nike1.jpg": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/media/nike1.b1e1311d.jpg",
-    "static/media/nike2.jpg": "/perlov3301/perlov3301.github.io/skilled-ui-interview/static/media/nike2.f9e66358.jpg"
+    "main.css": "/skilled-ui-interview/static/css/main.0cd50cca.chunk.css",
+    "main.js": "/skilled-ui-interview/static/js/main.441f1dd7.chunk.js",
+    "main.js.map": "/skilled-ui-interview/static/js/main.441f1dd7.chunk.js.map",
+    "runtime-main.js": "/skilled-ui-interview/static/js/runtime-main.9a1543c7.js",
+    "runtime-main.js.map": "/skilled-ui-interview/static/js/runtime-main.9a1543c7.js.map",
+    "static/js/2.f421a119.chunk.js": "/skilled-ui-interview/static/js/2.f421a119.chunk.js",
+    "static/js/2.f421a119.chunk.js.map": "/skilled-ui-interview/static/js/2.f421a119.chunk.js.map",
+    "index.html": "/skilled-ui-interview/index.html",
+    "precache-manifest.e2a6406cb48b8b96be0bb54a2313c478.js": "/skilled-ui-interview/precache-manifest.e2a6406cb48b8b96be0bb54a2313c478.js",
+    "service-worker.js": "/skilled-ui-interview/service-worker.js",
+    "static/css/main.0cd50cca.chunk.css.map": "/skilled-ui-interview/static/css/main.0cd50cca.chunk.css.map",
+    "static/js/2.f421a119.chunk.js.LICENSE.txt": "/skilled-ui-interview/static/js/2.f421a119.chunk.js.LICENSE.txt",
+    "static/media/home1.css": "/skilled-ui-interview/static/media/Gauguin_Gogh.6a9cf1e7.jpg",
+    "static/media/page1.css": "/skilled-ui-interview/static/media/my200801.dc0eada6.jpeg",
+    "static/media/nike1.jpg": "/skilled-ui-interview/static/media/nike1.b1e1311d.jpg",
+    "static/media/nike2.jpg": "/skilled-ui-interview/static/media/nike2.f9e66358.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcbc5f63.js",
+    "static/js/runtime-main.9a1543c7.js",
     "static/js/2.f421a119.chunk.js",
-    "static/css/main.fbe6c830.chunk.css",
+    "static/css/main.0cd50cca.chunk.css",
     "static/js/main.441f1dd7.chunk.js"
   ]
 }
