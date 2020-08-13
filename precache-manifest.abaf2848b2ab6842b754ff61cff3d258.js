@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27b045dfc16217583c2dbe5c3e477aa8",
+    "revision": "42a648df5a2c93bc2ef8c9a0e9a030e5",
     "url": "/skilled-ui-interview/index.html"
   },
   {
-    "revision": "1713a6e6a6f98eb9f39d",
+    "revision": "ca27ba4c37862f429517",
     "url": "/skilled-ui-interview/static/css/main.d2ca9f63.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skilled-ui-interview/static/js/2.f421a119.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1713a6e6a6f98eb9f39d",
-    "url": "/skilled-ui-interview/static/js/main.d0510940.chunk.js"
+    "revision": "ca27ba4c37862f429517",
+    "url": "/skilled-ui-interview/static/js/main.c22f8be1.chunk.js"
   },
   {
     "revision": "fa8f643dbed84185cb1b",

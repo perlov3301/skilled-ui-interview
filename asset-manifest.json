@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/skilled-ui-interview/static/css/main.d2ca9f63.chunk.css",
-    "main.js": "/skilled-ui-interview/static/js/main.d0510940.chunk.js",
-    "main.js.map": "/skilled-ui-interview/static/js/main.d0510940.chunk.js.map",
+    "main.js": "/skilled-ui-interview/static/js/main.c22f8be1.chunk.js",
+    "main.js.map": "/skilled-ui-interview/static/js/main.c22f8be1.chunk.js.map",
     "runtime-main.js": "/skilled-ui-interview/static/js/runtime-main.9a1543c7.js",
     "runtime-main.js.map": "/skilled-ui-interview/static/js/runtime-main.9a1543c7.js.map",
     "static/js/2.f421a119.chunk.js": "/skilled-ui-interview/static/js/2.f421a119.chunk.js",
     "static/js/2.f421a119.chunk.js.map": "/skilled-ui-interview/static/js/2.f421a119.chunk.js.map",
     "index.html": "/skilled-ui-interview/index.html",
-    "precache-manifest.1627b1b475927603c7089497933b7b92.js": "/skilled-ui-interview/precache-manifest.1627b1b475927603c7089497933b7b92.js",
+    "precache-manifest.abaf2848b2ab6842b754ff61cff3d258.js": "/skilled-ui-interview/precache-manifest.abaf2848b2ab6842b754ff61cff3d258.js",
     "service-worker.js": "/skilled-ui-interview/service-worker.js",
     "static/css/main.d2ca9f63.chunk.css.map": "/skilled-ui-interview/static/css/main.d2ca9f63.chunk.css.map",
     "static/js/2.f421a119.chunk.js.LICENSE.txt": "/skilled-ui-interview/static/js/2.f421a119.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.9a1543c7.js",
     "static/js/2.f421a119.chunk.js",
     "static/css/main.d2ca9f63.chunk.css",
-    "static/js/main.d0510940.chunk.js"
+    "static/js/main.c22f8be1.chunk.js"
   ]
 }
