@@ -7,7 +7,7 @@ import Employees from './Employees';
 import Page1 from './skill/my1/page1';
 import Page2 from './skill/my2/page2';
 import Empty from './Empty';
-import Home1 from './Home1';
+import Home1 from './home/Home1';
 
 
 

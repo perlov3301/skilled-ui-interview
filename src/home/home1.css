@@ -1,0 +1,41 @@
+.home1image {
+    /* width: 620px;
+    height: 450px; */
+    width: 100vw;
+    height: 92vh;
+    background-image: url(Gauguin_Gogh.jpg);
+    background-position: center;
+    background-repeat: no-repeat;  
+    background-size:cover;
+    position: absolute;
+    top: 8vh;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    /* box-sizing: border-box; */
+  }
+  /* .Login-component {
+    background-image: url(../static/login-bg.jpg);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+/* const imgMyimageexample = require('../assets/imageexample.jpg');
+const divStyle = {
+  width: '88%',
+  height: '800px',
+  backgroundImage: `url(${imgMyimageexample})`,
+  backgroundSize: 'cover'   <---- This is important
+};
+
+export default class Mycomponent extends React.Component {
+  render() {
+    return (
+      <div className="cComponent" style={divStyle} >
+        <h1 align="center">Some header example</h1>
+      </div>
+    );
+  }
+} */

@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './home1.css';
 // import { useState, useEffect } from 'react';
 // const im3 = require('./nike3.jpg');
 // const im3 = require('./Gaugin_Gogh.jpg');
