@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d84cce952ecb066f39545fcf499471a",
+    "revision": "c89e69cff051d07603fd741190916f5b",
     "url": "/perlov3301/skilled-ui-interview/index.html"
   },
   {
-    "revision": "ddc09d7308850b286cef",
-    "url": "/perlov3301/skilled-ui-interview/static/css/main.7726becb.chunk.css"
+    "revision": "3ba4882f72b22786b150",
+    "url": "/perlov3301/skilled-ui-interview/static/css/main.a43883b7.chunk.css"
   },
   {
-    "revision": "e7698db5a39770dd4920",
-    "url": "/perlov3301/skilled-ui-interview/static/js/2.41759f4c.chunk.js"
+    "revision": "4e0bf54cf610180c6ea4",
+    "url": "/perlov3301/skilled-ui-interview/static/js/2.f421a119.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/perlov3301/skilled-ui-interview/static/js/2.41759f4c.chunk.js.LICENSE.txt"
+    "url": "/perlov3301/skilled-ui-interview/static/js/2.f421a119.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddc09d7308850b286cef",
-    "url": "/perlov3301/skilled-ui-interview/static/js/main.9983ad4e.chunk.js"
+    "revision": "3ba4882f72b22786b150",
+    "url": "/perlov3301/skilled-ui-interview/static/js/main.441f1dd7.chunk.js"
   },
   {
     "revision": "28ce61a08bcb211fc581",

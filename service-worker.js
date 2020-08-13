@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/perlov3301/skilled-ui-interview/precache-manifest.1a03297e2d71be3d2b3195f8ddec3d64.js"
+  "/perlov3301/skilled-ui-interview/precache-manifest.3ed92ff826e768090480048c810faf0a.js"
 );
 
 self.addEventListener('message', (event) => {
