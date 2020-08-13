@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/perlov3301/skilled-ui-interview/static/css/main.7726becb.chunk.css",
+    "main.js": "/perlov3301/skilled-ui-interview/static/js/main.9983ad4e.chunk.js",
+    "main.js.map": "/perlov3301/skilled-ui-interview/static/js/main.9983ad4e.chunk.js.map",
+    "runtime-main.js": "/perlov3301/skilled-ui-interview/static/js/runtime-main.713dcf0f.js",
+    "runtime-main.js.map": "/perlov3301/skilled-ui-interview/static/js/runtime-main.713dcf0f.js.map",
+    "static/js/2.41759f4c.chunk.js": "/perlov3301/skilled-ui-interview/static/js/2.41759f4c.chunk.js",
+    "static/js/2.41759f4c.chunk.js.map": "/perlov3301/skilled-ui-interview/static/js/2.41759f4c.chunk.js.map",
+    "index.html": "/perlov3301/skilled-ui-interview/index.html",
+    "precache-manifest.1a03297e2d71be3d2b3195f8ddec3d64.js": "/perlov3301/skilled-ui-interview/precache-manifest.1a03297e2d71be3d2b3195f8ddec3d64.js",
+    "service-worker.js": "/perlov3301/skilled-ui-interview/service-worker.js",
+    "static/css/main.7726becb.chunk.css.map": "/perlov3301/skilled-ui-interview/static/css/main.7726becb.chunk.css.map",
+    "static/js/2.41759f4c.chunk.js.LICENSE.txt": "/perlov3301/skilled-ui-interview/static/js/2.41759f4c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/perlov3301/skilled-ui-interview/static/media/Gauguin_Gogh.6a9cf1e7.jpg",
+    "static/media/page1.css": "/perlov3301/skilled-ui-interview/static/media/my200801.dc0eada6.jpeg",
+    "static/media/nike1.jpg": "/perlov3301/skilled-ui-interview/static/media/nike1.b1e1311d.jpg",
+    "static/media/nike2.jpg": "/perlov3301/skilled-ui-interview/static/media/nike2.f9e66358.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.713dcf0f.js",
+    "static/js/2.41759f4c.chunk.js",
+    "static/css/main.7726becb.chunk.css",
+    "static/js/main.9983ad4e.chunk.js"
+  ]
+}
