@@ -1,0 +1,71 @@
+/* https://stackoverflow.com/questions/48618005/changing-the-background-image-of-a-circle */
+
+.fieldset2 {
+    display: flex;           /* establish flex container */
+    flex-direction: column;  /* make main axis vertical */
+    justify-content: space-between; /* center items vertically, in this case */
+    align-items: center;    /*  center items horizontally, in this case */
+    /* align-items: stretch; */
+    height: calc(125px*3 + 10px);
+    width: 350px;
+    margin: 0;
+    padding: 2.6% 0 2.6% 0;
+    /* text-align: center;     will center text in <p>, which is not a flex item */
+    background-color:white;
+    border: 0px;
+    border-radius: 1.5em;
+}
+.p2box1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 125px;
+    width: 320px;
+    border-radius: 1.5em;
+  }
+  .p2box1:hover {
+    background-color: rgba(247, 171, 162, 0.3);
+    transition:all 0.5s ease;
+  }
+  .p2box1:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  .p2box12 {
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100px;
+  }
+  .p2box11image{
+    display: inline-block;
+    overflow: hidden;
+    width: 120px;
+    height: 120px;
+    /* margin-top: 0.5em;
+    margin-left: 0.5em; */
+  }
+  .p2box11image img{
+    width:80%;
+    height:80%;
+    margin: 10% auto 10% 10%;
+    object-fit: cover;
+    border-radius: 0.5em;
+  }
+  .p2box111model {
+    color: orange;
+    font-size: 1.25rem;
+  }
+  .p2box112brand {
+    color: gray;
+    font-size: .8rem;
+  }
+  .p2box113cost {
+      color: black;
+      font-size: 1.25rem;
+  }
+        
